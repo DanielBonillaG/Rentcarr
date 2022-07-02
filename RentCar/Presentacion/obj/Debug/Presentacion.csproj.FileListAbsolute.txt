@@ -1,0 +1,17 @@
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Datos.dll
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Entidades.dll
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Datos.pdb
+C:\Users\johnp\source\repos\RentCar\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.FrmVehiculos.resources
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\johnp\source\repos\RentCar\Presentacion\obj\Debug\Presentacion.FrmClientes.resources

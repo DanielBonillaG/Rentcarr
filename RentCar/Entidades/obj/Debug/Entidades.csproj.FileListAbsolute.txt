@@ -1,0 +1,6 @@
+C:\Users\johnp\source\repos\RentCar\Entidades\bin\Debug\Entidades.dll
+C:\Users\johnp\source\repos\RentCar\Entidades\bin\Debug\Entidades.pdb
+C:\Users\johnp\source\repos\RentCar\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\johnp\source\repos\RentCar\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\johnp\source\repos\RentCar\Entidades\obj\Debug\Entidades.dll
+C:\Users\johnp\source\repos\RentCar\Entidades\obj\Debug\Entidades.pdb
